@@ -1,1 +1,6 @@
 proj1.0.txt commit directly to master branch
+
+project1.0.txt <----- project1.1.txt
+               \
+                \ (create branch)
+                 \ project2.0.txt (This is GerardPricingLib branch)

@@ -6,6 +6,6 @@ proj2.0.txt commit to a new branch GeraldPricingClient (so Gerarld contains two 
 (master branch) proj1.0.txt <--- proj1.1.txt    
                               \
                                \ (create branch)
-(Gerald Branch)                 \ proj2.0.txt <--- proj2.1.txt<--proj2.2.txt
+(Gerald Branch)                 \ proj2.0.txt <--- proj2.1.txt<--proj2.2.txt<--proj2.3.txt
                                                              	
 

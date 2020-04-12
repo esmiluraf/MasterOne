@@ -3,7 +3,11 @@ proj2.0.txt commit to a new branch GeraldPricingClient (so Gerarld contains two 
 
 
 
-(master branch) project1.0.txt <--- project1.1.txt    
+(master branch) proj1.0.txt <--- proj1.1.txt    
                               \
                                \ (create branch)
-(Gerald Branch)                 \ project2.0.txt <--- project2.1.txt
+(Gerald Branch)                 \ proj2.0.txt <--- proj2.1.txt
+                                                             \
+                                                              \
+(Volatility)						       \<---proj2.2.txt		
+

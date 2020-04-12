@@ -1,0 +1,3 @@
+Cloned the full masterone
+Switch to GeraldPricingLib
+Created file list_of_cmds.txt and modified proj2.txt
